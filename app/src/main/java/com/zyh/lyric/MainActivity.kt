@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity
 /**
  *Time:2019/3/28
  *Author:ZYH
- *Description:
+ *Description:展示的Activity
  */
 class MainActivity : AppCompatActivity() {
 
